@@ -52,7 +52,6 @@
 mini-apps/
   README.md         このファイル（一覧と回し方）
   TEMPLATE.md       各アプリの記録のひな形
-  log.md            週の記録と月の振り返り
   compose.yaml      ローカルの PostgreSQL（全アプリ共通）
   001-vocab-api/
     README.md       その回の記録（TEMPLATE.md をコピー）
